@@ -101,8 +101,9 @@ The project is organized into the following directories:
 4. **Explore the visualizations**:
    - Open `visualize.ipynb` to see the visual representations of the data and model performance.
   
-## Streamlit App
+## [Streamlit App](https://predictemployeeperformance.streamlit.app/)
 - This work has an accompanying Streamlit App for predicting the rating of employee performance.
+- Click [here](https://predictemployeeperformance.streamlit.app/) to interact with it.
 
 ## Contributing
 

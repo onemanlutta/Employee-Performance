@@ -1,6 +1,6 @@
 # Employee Performance Rating
 
-![image](https://github.com/user-attachments/assets/35e12817-376e-447e-aece-883b29f7c04c)
+![image](https://github.com/user-attachments/assets/35048526-63e3-492f-8cfe-534dca15058a)
 
 
 

@@ -53,6 +53,8 @@ The project is organized into the following directories:
 ├── references                              # Reference documents and research papers
 ├── app.py                                  # Code for the Streamlit App
 ├── requirements.txt                        # Requirement libraries for running the Streamlit App
+├── Project_Analysis.ipynb                  # A condensed notebook containing all the key analyses and outputs of the work outside the predefined project structure
+├── README.md                               # Project Documentation
 
 ```
 ## PROJECT DATA EXPLORATION SUMMARY - Highlights
